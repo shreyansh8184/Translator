@@ -6,8 +6,9 @@ import requests
 import random
 from telepot import DelegatorBot
 from telepot.delegate import pave_event_space, per_chat_id, create_open
+from config import BOT_TOKEN
 
-TOKEN = '1456486530:AAE5-EHPs1KrfQURFsQkeUQhAIGbOrSN_Dg'
+TOKEN = BOT_TOKEN
 
 
 trans_rest = 0
