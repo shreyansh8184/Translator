@@ -1,1 +1,1 @@
-worker python translatorbot.py
+worker: python translatorbot.py
